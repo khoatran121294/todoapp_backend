@@ -1,0 +1,22 @@
+{
+  "name": "todoapp_backend",
+  "version": "1.0.0",
+  "description": "provide service api for todo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "todoapp",
+    "backend",
+    "service",
+    "api"
+  ],
+  "author": "khoata",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "jsonwebtoken": "^7.4.1"
+  }
+}
